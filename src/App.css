@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.inner-container {
+  background-color: #556B2F;
+  display: block;
+  justify-content: center;
+}

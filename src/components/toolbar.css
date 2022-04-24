@@ -1,0 +1,25 @@
+.toolbar-title {
+    margin: 0 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.toolbar {
+    width: 100px;
+    background-color: #556B2F;
+}
+
+.icon {
+    padding: 5px;
+    margin: 10px auto;
+    display: block;
+    width: 40px;
+}
+
+.icon:hover {
+    background-color: #38471f;
+}
+
+.selected {
+    background-color: #38471f;
+}
